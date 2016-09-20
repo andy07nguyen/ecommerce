@@ -1,0 +1,214 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.title {
+
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #f18cb4;
+	font-size: 60px;
+}
+
+p.title1 {
+	position: absolute;
+	/*text-align: center;*/
+	font-family: 'Pacifico', cursive;
+	color: #f18cb4;
+	font-size: 40px;
+	top: 150px;
+	left: 600px;
+}
+
+.col-sm-3 {
+	position: relative;
+	margin-left: 30px;
+	margin-bottom: 30px;
+	text-align: center;
+	top: 625px;
+	left: 75px;
+}
+
+.navbar-brand {	
+	font-family: 'Pacifico', cursive;
+	color: #f18cb4;
+}
+
+img.resize {
+	width: 100%;
+	height: 420px;
+	position: relative;
+	bottom: 880px;
+	z-index: -4;
+}
+
+img.hey {
+	width: 80%;
+	height: 200px;
+	position: relative;
+	bottom: 820px;
+	left: 127px;
+}
+
+img.bar1 {
+	position: relative;
+	width: 100%;
+	height: 70px;
+	bottom: 110px;
+}
+
+img.bar2 {
+	position: absolute;
+	width: 100%;
+	height: 70px;
+	top: 2820px;
+}
+
+img.bar3 {
+	position: absolute;
+	width: 100%;
+	height: 70px;
+	top: 3500px;
+}
+
+h3.cupcakeH3 {
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #f18cb4;
+	font-size: 50px;
+	position: relative;
+	bottom: 115px;
+}
+
+h3.contactH3 {
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #f18cb4;
+	font-size: 50px;
+	position: relative;
+	top: 920px;
+}
+
+img.ccup {
+	width: 605px;
+	height: 300px;
+	position: relative;
+	left: 30px;
+	top: 450px;
+}
+
+img.ad1 {
+	position: relative;
+	width: 585px;
+	height: 300px;
+	left: 40px;
+	top: 450px;
+}
+
+img.ad {
+	position: absolute;
+	width: 605px;
+	height: 300px;
+	left: 30px;
+	top: 2300px;
+}
+
+img.red {
+	position: absolute;
+	width: 585px;
+	height: 300px;
+	left: 650px;
+	top: 2300px;
+}
+
+.button0 {
+	position: relative;
+	color: white;
+	bottom: 1540px;
+	left: 560px;
+	background-color: #f18cb4;
+	font-size: 15px;
+	border-radius: 10px;
+	border-style: none;
+	padding: 10px;
+	width: 150px;
+}
+
+.button1 {
+	position: relative;
+	color: white;
+	bottom: 310px;
+	left: 420px;
+	background-color: #f18cb4;
+	font-size: 20px;
+	border-radius: 10px;
+	border-style: none;
+	padding: 13px;
+}
+
+.button2 {
+	position: absolute;
+	color: white;
+	top: 2690px;
+	left: 580px;
+	background-color: #f18cb4;
+	font-size: 20px;
+	border-radius: 10px;
+	border-style: none;
+	padding: 13px;
+}
+
+.button3 {
+	position: relative;
+	color: white;
+	top: 1100px;
+	left: 560px;
+	background-color: #f18cb4;
+	font-size: 15px;
+	border-radius: 10px;
+	border-style: none;
+	padding: 10px;
+	width: 150px;
+}
+
+input.email {
+	position: relative;
+	top: 900px;
+	width: 30%;
+	left: 442px;
+	text-indent: 20px;
+	border-radius: 5px;
+	height: 30px;
+
+}
+
+input.subject {
+	position: relative;
+	top: 940px;
+	width: 30%;
+	left: 59px;
+	text-indent: 20px;
+	border-radius: 5px;
+	height: 30px;
+
+}
+
+textarea.message {
+	position: relative;
+	width: 30%;
+	top: 1060px;
+	right: 325px;
+	text-indent: 20px;
+	border-radius: 5px;
+	height: 100px;
+
+}
+
+h4.footer {
+	position: relative;
+	color: black;
+	font-size: 12px;
+	top: 1300px;
+	text-indent: 20px;
+}
